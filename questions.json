@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is used in web development?",
+    "options": ["Python", "HTML", "Java", "C++"],
+    "answer": "HTML"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "answer": "1945"
+  },
+  {
+    "question": "What is the main component of the sun?",
+    "options": ["Liquid lava", "Molten iron", "Hydrogen gas", "Solid rock"],
+    "answer": "Hydrogen gas"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "options": ["New Zealand", "South Africa", "Australia", "India"],
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  }
+] 
