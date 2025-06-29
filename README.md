@@ -1,6 +1,6 @@
 # 🎯 Quiz App with Score Tracker
 
-A Python-based quiz application with multiple interface options: Command Line Interface (CLI), Tkinter GUI, and Streamlit Web App. Features include score tracking, timer, question shuffling, and result history.
+A Python-based quiz application with multiple interface options: Command Line Interface (CLI), and Tkinter GUI. Features include score tracking, timer, question shuffling, and result history.
 
 ## 📁 Project Structure
 
@@ -9,7 +9,6 @@ quiz-app/
 │
 ├── main.py                  # CLI version of the quiz app
 ├── gui_quiz.py             # Tkinter GUI version
-├── streamlit_quiz.py       # Streamlit web app version
 ├── questions.json          # Quiz questions database
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
@@ -162,11 +161,6 @@ Results are saved in `results.txt` as JSON:
 
 ### Local Development
 All versions work locally without additional setup beyond Python installation.
-
-### Web Deployment (Streamlit)
-1. Install Streamlit: `pip install streamlit`
-2. Run: `streamlit run streamlit_quiz.py`
-3. Access at: `http://localhost:8501`
 
 ### Desktop Distribution (Tkinter)
 The Tkinter version can be packaged into standalone executables using tools like:
